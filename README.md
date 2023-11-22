@@ -3,7 +3,7 @@
 This project is focused on conducting an Exploratory Data Analysis (EDA) of the renowned Iris dataset. Utilizing Python and libraries such as Pandas, Matplotlib, and Seaborn, the project aims to thoroughly analyze and visualize the dataset's characteristics.
 
 # Files in the Repository
-iris_eda.ipynb: A Jupyter notebook containing the detailed EDA process.
+Iris-Dataset-Exploratory-Data-Analysis.ipynb: A Jupyter notebook containing the detailed EDA process.
 requirements.txt: A file listing all the necessary Python libraries for this project.
 # Setup and Installation
 Install Python and Jupyter Notebook: Ensure Python is installed on your system. Jupyter Notebook can be installed via Python's package manager, pip.
